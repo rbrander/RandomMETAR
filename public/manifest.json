@@ -1,0 +1,15 @@
+{
+  "short_name": "METAR",
+  "name": "Random METAR",
+  "start_url": "/METAR/",
+  "icons": [{
+    "src": "/METAR/weather-512.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }],
+  "theme_color": "#46ACEB",
+  "background_color": "#46ACEB",
+  "display": "fullscreen",
+  "orientation": "landscape"
+}
+
