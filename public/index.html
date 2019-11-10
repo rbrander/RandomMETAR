@@ -5,11 +5,15 @@
   <link rel="manifest" href="manifest.json">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
-    body { font-family: Arial };
+    body { font-family: Arial; }
+    #txtMetar { margin-top: 1em; }
+    .button { cursor: pointer; }
   </style>
 </head>
 <body>
   <h1>Random METAR!</h1>
+  <div class="button" onclick="save()">⭐ Save!</div>
+  <div class="button" onclick="randomize()">🎲 Randomize!</div>
   <div id="txtMetar">Loading...</div>
   <script type="text/javascript" src="app.js"></script>
 </body>

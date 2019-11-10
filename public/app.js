@@ -6,6 +6,7 @@
 const API_KEY = '19b4970bb56b0460a4130b5b67';
 const API_URL = 'https://api.checkwx.com/metar/';
 
+let icao_code = '';
 
 // I'm Assuming window.fetch exists!
 // TODO: get a polyfill for fetch
@@ -42,8 +43,8 @@ const parseAPIResponse = (airportCode, response) => {
 const getWeather = (airportCode) => {
   const url = API_URL + airportCode;
   const headers = new Headers({
-    "Accept": "application/json",
-    "X-API-Key": API_KEY
+    'Accept': 'application/json',
+    'X-API-Key': API_KEY
   });
   const options = {
     method: 'GET',
@@ -61,13 +62,24 @@ const displayMETAR = (data) => {
 const getRandomAirport = () =>
   fetch('./airport/random')
     .then(response => response.json())
-    .then(data => getWeather(data.icao_code))
+    .then(data => {
+       icao_code = data.icao_code;
+       return getWeather(data.icao_code);
+    })
     .then(displayMETAR);
 
 const excludeAirport = icao_code =>
   fetch(`./airport/${icao_code}/no-data`, { method: 'POST' });
 
-const run = async() => {
+const save = () => {
+  fetch(`./airport/${icao_code}/save`, {
+    method: 'POST',
+    body: document.getElementById('txtMetar').innerText
+  })
+};
+
+const randomize = async() => {
+  document.getElementById('txtMetar').innerText = 'Loading...';
   let fetching = true;
   let fetchCount = 0;
   while(fetching) {
@@ -86,5 +98,4 @@ const run = async() => {
   console.log('fetchCount:', fetchCount);
 };
 
-//getWeather("CYWM").then(displayMETAR);
-run();
+randomize();
