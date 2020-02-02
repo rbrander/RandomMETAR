@@ -5,15 +5,37 @@
   <link rel="manifest" href="manifest.json">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
-    body { font-family: Arial; }
-    #txtMetar { margin-top: 1em; }
-    .button { cursor: pointer; }
+    body {
+      font-family: Arial;
+      background-image: url(./oshawa_airport.jpg);
+      color: white;
+    }
+    h1 { text-align: center; }
+    #txtMetar {
+      margin: 1rem;
+      font-size: 2.5rem;
+      font-family: monospace;
+      padding: 1rem;
+      border: 1px solid black;
+      color: black;
+      background-color: rgba(255, 255, 255, 0.6);
+    }
+    .buttons {
+      font-size: 1.5rem;
+      padding-left: 0.5rem;
+    }
+    .button {
+      cursor: pointer;
+      padding: 0.5rem 2rem;
+    }
   </style>
 </head>
 <body>
   <h1>Random METAR!</h1>
-  <div class="button" onclick="save()">⭐ Save!</div>
-  <div class="button" onclick="randomize()">🎲 Randomize!</div>
+  <div class="buttons">
+    <span class="button" onclick="save()">⭐ Save!</span>
+    <span class="button" onclick="randomize()">🎲 Randomize!</span>
+  </div>
   <div id="txtMetar">Loading...</div>
   <script type="text/javascript" src="app.js"></script>
 </body>

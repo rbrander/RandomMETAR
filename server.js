@@ -18,9 +18,9 @@ app.use((req, res, next) => {
 
 app.use(bodyParser.text());
 
-app.use('/METAR', express.static('public'));
+app.use(BASE_URL, express.static('public'));
 
-app.get('/METAR/airport/random', (_, res) => {
+app.get(`${BASE_URL}/airport/random`, (_, res) => {
   const includedAirports = airports.filter(airport => !excludedAirports.includes(airport.icao_code));
   const randomIndex = Math.floor(Math.random() * includedAirports.length);
   res.set('Content-Type', 'application/json');
@@ -28,7 +28,7 @@ app.get('/METAR/airport/random', (_, res) => {
   res.end();
 });
 
-app.post('/METAR/airport/:icao_code/no-data', (req, res) => {
+app.post(`${BASE_URL}/airport/:icao_code/no-data`, (req, res) => {
   const { icao_code } = req.params;
   console.log(`No Data for ${icao_code}!`);
   excludedAirports.push(icao_code);
@@ -36,7 +36,7 @@ app.post('/METAR/airport/:icao_code/no-data', (req, res) => {
   res.status(200).end();
 });
 
-app.post('/METAR/airport/:icao_code/save', (req, res) => {
+app.post(`${BASE_URL}/airport/:icao_code/save`, (req, res) => {
   const { icao_code } = req.params;
   console.log(`Saving ${req.body}`);
   const savedMETARList = JSON.parse(fs.readFileSync(SAVED_METARS_FILENAME, { encoding: 'utf8' }));

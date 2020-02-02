@@ -1,0 +1,2437 @@
+[
+  {
+    "icao_code": "CYAB",
+    "airport_name": "Arctic Bay Airport",
+    "town": "Arctic Bay",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYAC",
+    "airport_name": "Cat Lake Airport",
+    "town": "Cat Lake First Nation",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYAD",
+    "airport_name": "La Grande-3 Airport",
+    "town": "La Grande-3 generating station",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYAG",
+    "airport_name": "Fort Frances Municipal Airport",
+    "town": "Fort Frances",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYAH",
+    "airport_name": "La Grande-4 Airport",
+    "town": "La Grande-4 generating station",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYAL",
+    "airport_name": "Alert Bay Airport",
+    "town": "Alert Bay",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYAM",
+    "airport_name": "Sault Ste. Marie Airport",
+    "town": "Sault Ste. Marie",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYAQ",
+    "airport_name": "Kasabonika Airport",
+    "town": "Kasabonika Lake First Nation",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYAS",
+    "airport_name": "Kangirsuk Airport",
+    "town": "Kangirsuk",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYAT",
+    "airport_name": "Attawapiskat Airport",
+    "town": "Attawapiskat First Nation",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYAU",
+    "airport_name": "Liverpool/South Shore Regional Airport",
+    "town": "Liverpool",
+    "prov": "Nova Scotia"
+  },
+  {
+    "icao_code": "CYAV",
+    "airport_name": "St. Andrews Airport",
+    "town": "Rural Municipality of St. Andrews",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYAW",
+    "airport_name": "CFB Shearwater",
+    "town": "Shearwater",
+    "prov": "Nova Scotia"
+  },
+  {
+    "icao_code": "CYAX",
+    "airport_name": "Lac du Bonnet Airport",
+    "town": "Lac du Bonnet",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYAY",
+    "airport_name": "St. Anthony Airport",
+    "town": "St. Anthony",
+    "prov": "Newfoundland and Labrador"
+  },
+  {
+    "icao_code": "CYAZ",
+    "airport_name": "Tofino/Long Beach Airport",
+    "town": "Tofino",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYB3",
+    "airport_name": "List of heliports in Canada#77|Nelson/Baylock Estate Heliport",
+    "town": "Nelson, British Columbia",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYBA",
+    "airport_name": "Banff Airport",
+    "town": "Banff",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYBB",
+    "airport_name": "Kugaaruk Airport",
+    "town": "Kugaaruk",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYBC",
+    "airport_name": "Baie-Comeau Airport",
+    "town": "Baie-Comeau",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYBD",
+    "airport_name": "Bella Coola Airport",
+    "town": "Bella Coola",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYBE",
+    "airport_name": "Uranium City Airport",
+    "town": "Uranium City",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CYBF",
+    "airport_name": "Bonnyville Airport",
+    "town": "Bonnyville",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYBG",
+    "airport_name": "CFB Bagotville",
+    "town": "La Baie",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYBK",
+    "airport_name": "Baker Lake Airport",
+    "town": "Baker Lake",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYBL",
+    "airport_name": "Campbell River Airport",
+    "town": "Campbell River",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYBN",
+    "airport_name": "CFB Borden",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYBP",
+    "airport_name": "Brooks Regional Aerodrome",
+    "town": "Brooks",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYBQ",
+    "airport_name": "Tadoule Lake Airport",
+    "town": "Tadoule Lake",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYBR",
+    "airport_name": "Brandon Municipal Airport",
+    "town": "Brandon",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYBT",
+    "airport_name": "Brochet Airport",
+    "town": "Brochet",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYBU",
+    "airport_name": "Nipawin Airport",
+    "town": "Nipawin",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CYBV",
+    "airport_name": "Berens River Airport",
+    "town": "Berens River",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYBW",
+    "airport_name": "Calgary/Springbank Airport",
+    "town": "Springbank",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYCC",
+    "airport_name": "Cornwall Regional Airport",
+    "town": "Cornwall",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYCD",
+    "airport_name": "Nanaimo Airport",
+    "town": "Nanaimo",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYCE",
+    "airport_name": "Centralia/James T. Field Memorial Aerodrome",
+    "town": "Centralia",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYCG",
+    "airport_name": "West Kootenay Regional Airport",
+    "town": "Castlegar",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYCH",
+    "airport_name": "Miramichi Airport",
+    "town": "Miramichi",
+    "prov": "New Brunswick"
+  },
+  {
+    "icao_code": "CYCK",
+    "airport_name": "Chatham-Kent Airport",
+    "town": "Chatham-Kent",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYCL",
+    "airport_name": "Charlo Airport",
+    "town": "Charlo",
+    "prov": "New Brunswick"
+  },
+  {
+    "icao_code": "CYCN",
+    "airport_name": "Cochrane Aerodrome",
+    "town": "Cochrane",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYCO",
+    "airport_name": "Kugluktuk Airport",
+    "town": "Kugluktuk",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYCP",
+    "airport_name": "Blue River Airport",
+    "town": "Blue River",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYCQ",
+    "airport_name": "Chetwynd Airport",
+    "town": "Chetwynd",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYCR",
+    "airport_name": "Cross Lake (Charlie Sinclair Memorial) Airport",
+    "town": "Cross Lake",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYCS",
+    "airport_name": "Chesterfield Inlet Airport",
+    "town": "Chesterfield Inlet",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYCT",
+    "airport_name": "Coronation Airport",
+    "town": "Coronation",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYCW",
+    "airport_name": "Chilliwack Airport",
+    "town": "Chilliwack",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYCX",
+    "airport_name": "CFB Gagetown",
+    "town": "Oromocto",
+    "prov": "New Brunswick"
+  },
+  {
+    "icao_code": "CYCY",
+    "airport_name": "Clyde River Airport",
+    "town": "Clyde River",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYCZ",
+    "airport_name": "Fairmont Hot Springs Airport",
+    "town": "Fairmont Hot Springs",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYDA",
+    "airport_name": "Dawson City Airport",
+    "town": "Dawson City",
+    "prov": "Yukon"
+  },
+  {
+    "icao_code": "CYDB",
+    "airport_name": "Burwash Airport",
+    "town": "Burwash Landing",
+    "prov": "Yukon"
+  },
+  {
+    "icao_code": "CYDC",
+    "airport_name": "Princeton Aerodrome",
+    "town": "Princeton",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYDF",
+    "airport_name": "Deer Lake Regional Airport",
+    "town": "Deer Lake",
+    "prov": "Newfoundland and Labrador"
+  },
+  {
+    "icao_code": "CYDH",
+    "airport_name": "List of heliports in Canada#183|Ottawa/Dwyer Hill Heliport",
+    "town": "Ottawa",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYDL",
+    "airport_name": "Dease Lake Airport",
+    "town": "Dease Lake",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYDM",
+    "airport_name": "Ross River Airport",
+    "town": "Ross River",
+    "prov": "Yukon"
+  },
+  {
+    "icao_code": "CYDN",
+    "airport_name": "Lt. Col W.G. (Billy) Barker VC Airport",
+    "town": "Dauphin",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYDO",
+    "airport_name": "Dolbeau-Saint-Félicien Airport",
+    "town": "Dolbeau-Mistassini",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYDP",
+    "airport_name": "Nain Airport",
+    "town": "Nain",
+    "prov": "Newfoundland and Labrador"
+  },
+  {
+    "icao_code": "CYDQ",
+    "airport_name": "Dawson Creek Airport",
+    "town": "Dawson Creek",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYEA",
+    "airport_name": "Empress Airport",
+    "town": "Empress",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYED",
+    "airport_name": "CFB Edmonton",
+    "town": "Edmonton",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYEE",
+    "airport_name": "Midland/Huronia Airport",
+    "town": "Midland",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYEG",
+    "airport_name": "Edmonton International Airport",
+    "town": "Nisku",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYEK",
+    "airport_name": "Arviat Airport",
+    "town": "Arviat",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYEL",
+    "airport_name": "Elliot Lake Municipal Airport",
+    "town": "Elliot Lake",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYEM",
+    "airport_name": "Manitowaning/Manitoulin East Municipal Airport",
+    "town": "Manitowaning",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYEN",
+    "airport_name": "Estevan Regional Aerodrome",
+    "town": "Estevan",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CYER",
+    "airport_name": "Fort Severn Airport",
+    "town": "Fort Severn First Nation",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYES",
+    "airport_name": "Edmundston Airport",
+    "town": "Edmundston",
+    "prov": "New Brunswick"
+  },
+  {
+    "icao_code": "CYET",
+    "airport_name": "Edson Airport",
+    "town": "Edson",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYEU",
+    "airport_name": "Eureka Aerodrome",
+    "town": "Eureka",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYEV",
+    "airport_name": "Inuvik (Mike Zubko) Airport",
+    "town": "Inuvik",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYEY",
+    "airport_name": "Amos/Magny Airport",
+    "town": "Amos",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYFA",
+    "airport_name": "Fort Albany Airport",
+    "town": "Fort Albany First Nation",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYFB",
+    "airport_name": "Iqaluit Airport",
+    "town": "Iqaluit",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYFC",
+    "airport_name": "Fredericton International Airport",
+    "town": "Fredericton",
+    "prov": "New Brunswick"
+  },
+  {
+    "icao_code": "CYFD",
+    "airport_name": "Brantford Airport",
+    "town": "Brantford",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYFE",
+    "airport_name": "Forestville Airport",
+    "town": "Forestville",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYFH",
+    "airport_name": "Fort Hope Airport",
+    "town": "Eabametoong First Nation",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYFI",
+    "airport_name": "Fort MacKay/Firebag Aerodrome",
+    "town": "Fort McKay",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYFJ",
+    "airport_name": "Mont Tremblant International Airport",
+    "town": "Mont-Tremblant",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYFO",
+    "airport_name": "Flin Flon Airport",
+    "town": "Flin Flon",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYFR",
+    "airport_name": "Fort Resolution Airport",
+    "town": "Fort Resolution",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYFS",
+    "airport_name": "Fort Simpson Airport",
+    "town": "Fort Simpson",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYFT",
+    "airport_name": "Makkovik Airport",
+    "town": "Makkovik",
+    "prov": "Newfoundland and Labrador"
+  },
+  {
+    "icao_code": "CYG2",
+    "airport_name": "Parkhill (Yellow Gold) Aerodrome",
+    "town": "Parkhill",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYGB",
+    "airport_name": "Texada/Gillies Bay Airport",
+    "town": "Texada Island",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYGD",
+    "airport_name": "Goderich Airport",
+    "town": "Goderich",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYGE",
+    "airport_name": "Golden Airport",
+    "town": "Golden",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYGH",
+    "airport_name": "Fort Good Hope Airport",
+    "town": "Fort Good Hope",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYGK",
+    "airport_name": "Kingston/Norman Rogers Airport",
+    "town": "Kingston",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYGL",
+    "airport_name": "La Grande Rivière Airport",
+    "town": "Radisson",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYGM",
+    "airport_name": "Gimli Industrial Park Airport",
+    "town": "Gimli",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYGO",
+    "airport_name": "Gods Lake Narrows Airport",
+    "town": "Gods Lake Narrows",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYGP",
+    "airport_name": "Michel-Pouliot Gaspé Airport",
+    "town": "Gaspé",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYGQ",
+    "airport_name": "Geraldton (Greenstone Regional) Airport",
+    "town": "Greenstone",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYGR",
+    "airport_name": "Îles-de-la-Madeleine Airport",
+    "town": "Magdalen Islands",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYGT",
+    "airport_name": "Igloolik Airport",
+    "town": "Igloolik",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYGV",
+    "airport_name": "Havre Saint-Pierre Airport",
+    "town": "Havre-Saint-Pierre",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYGW",
+    "airport_name": "Kuujjuarapik Airport",
+    "town": "Kuujjuarapik",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYGX",
+    "airport_name": "Gillam Airport",
+    "town": "Gillam",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYGZ",
+    "airport_name": "Grise Fiord Airport",
+    "town": "Grise Fiord",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYHA",
+    "airport_name": "Quaqtaq Airport",
+    "town": "Quaqtaq",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYHB",
+    "airport_name": "Hudson Bay Airport",
+    "town": "Hudson Bay",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CYHC",
+    "airport_name": "Vancouver Harbour Flight Centre",
+    "town": "Vancouver",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYHD",
+    "airport_name": "Dryden Regional Airport",
+    "town": "Dryden",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYHE",
+    "airport_name": "Hope Aerodrome",
+    "town": "Hope",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYHF",
+    "airport_name": "Hearst (René Fontaine) Municipal Airport",
+    "town": "Hearst",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYHH",
+    "airport_name": "Nemiscau Airport",
+    "town": "Nemaska",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYHI",
+    "airport_name": "Ulukhaktok/Holman Airport",
+    "town": "Ulukhaktok",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYHK",
+    "airport_name": "Gjoa Haven Airport",
+    "town": "Gjoa Haven",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYHM",
+    "airport_name": "John C. Munro Hamilton International Airport",
+    "town": "Hamilton",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYHN",
+    "airport_name": "Hornepayne Municipal Airport",
+    "town": "Hornepayne",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYHO",
+    "airport_name": "Hopedale Airport",
+    "town": "Hopedale",
+    "prov": "Newfoundland and Labrador"
+  },
+  {
+    "icao_code": "CYHR",
+    "airport_name": "Chevery Airport",
+    "town": "Chevery",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYHT",
+    "airport_name": "Haines Junction Airport",
+    "town": "Haines Junction",
+    "prov": "Yukon"
+  },
+  {
+    "icao_code": "CYHU",
+    "airport_name": "Montreal Saint-Hubert Longueuil Airport",
+    "town": "Longueuil",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYHY",
+    "airport_name": "Hay River/Merlyn Carter Airport",
+    "town": "Hay River",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYHZ",
+    "airport_name": "Halifax Stanfield International Airport",
+    "town": "Halifax",
+    "prov": "Nova Scotia"
+  },
+  {
+    "icao_code": "CYIB",
+    "airport_name": "Atikokan Municipal Airport",
+    "town": "Atikokan",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYID",
+    "airport_name": "Digby/Annapolis Regional Airport",
+    "town": "Digby",
+    "prov": "Nova Scotia"
+  },
+  {
+    "icao_code": "CYIF",
+    "airport_name": "Saint-Augustin Airport",
+    "town": "Saint-Augustin",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYIK",
+    "airport_name": "Ivujivik Airport",
+    "town": "Ivujivik",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYIO",
+    "airport_name": "Pond Inlet Airport",
+    "town": "Pond Inlet",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYIV",
+    "airport_name": "Island Lake Airport",
+    "town": "Island Lake",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYJA",
+    "airport_name": "Jasper Airport",
+    "town": "Jasper",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYJF",
+    "airport_name": "Fort Liard Airport",
+    "town": "Fort Liard",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYJM",
+    "airport_name": "Fort St. James (Perison) Airport",
+    "town": "Fort St. James",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYJN",
+    "airport_name": "Saint-Jean Airport",
+    "town": "Saint-Jean-sur-Richelieu",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYJP",
+    "airport_name": "Fort Providence Airport",
+    "town": "Fort Providence",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYJQ",
+    "airport_name": "Denny Island Aerodrome",
+    "town": "Bella Bella",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYJT",
+    "airport_name": "Stephenville International Airport",
+    "town": "Stephenville",
+    "prov": "Newfoundland and Labrador"
+  },
+  {
+    "icao_code": "CYKA",
+    "airport_name": "Kamloops Airport",
+    "town": "Kamloops",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYKC",
+    "airport_name": "Collins Bay Airport",
+    "town": "Collins Bay",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CYKD",
+    "airport_name": "Aklavik/Freddie Carmichael Airport",
+    "town": "Aklavik",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYKF",
+    "airport_name": "Region of Waterloo International Airport",
+    "town": "Regional Municipality of Waterloo",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYKG",
+    "airport_name": "Kangiqsujuaq (Wakeham Bay) Airport",
+    "town": "Kangiqsujuaq",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYKJ",
+    "airport_name": "Key Lake Airport",
+    "town": "Key Lake mine",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CYKL",
+    "airport_name": "Schefferville Airport",
+    "town": "Schefferville",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYKM",
+    "airport_name": "Kincardine Municipal Airport",
+    "town": "Kincardine",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYKO",
+    "airport_name": "Akulivik Airport",
+    "town": "Akulivik",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYKQ",
+    "airport_name": "Waskaganish Airport",
+    "town": "Waskaganish",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYKX",
+    "airport_name": "Kirkland Lake Airport",
+    "town": "Kirkland Lake",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYKY",
+    "airport_name": "Kindersley Regional Airport",
+    "town": "Kindersley",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CYKZ",
+    "airport_name": "Buttonville Municipal Airport",
+    "town": "Buttonville",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYLA",
+    "airport_name": "Aupaluk Airport",
+    "town": "Aupaluk",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYLB",
+    "airport_name": "Lac La Biche Airport",
+    "town": "Lac La Biche",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYLC",
+    "airport_name": "Kimmirut Airport",
+    "town": "Kimmirut",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYLD",
+    "airport_name": "Chapleau Airport",
+    "town": "Chapleau",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYLH",
+    "airport_name": "Lansdowne House Airport",
+    "town": "Neskantaga First Nation",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYLI",
+    "airport_name": "Lillooet Airport",
+    "town": "Lillooet",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYLJ",
+    "airport_name": "Meadow Lake Airport (Saskatchewan)|Meadow Lake Airport",
+    "town": "Meadow Lake",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CYLK",
+    "airport_name": "Lutselk'e Airport",
+    "town": "Lutselk'e",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYLL",
+    "airport_name": "Lloydminster Airport",
+    "town": "Lloydminster",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYLQ",
+    "airport_name": "La Tuque Airport",
+    "town": "La Tuque",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYLR",
+    "airport_name": "Leaf Rapids Airport",
+    "town": "Leaf Rapids",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYLS",
+    "airport_name": "Lake Simcoe Regional Airport",
+    "town": "Barrie",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYLT",
+    "airport_name": "Alert Airport",
+    "town": "Alert",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYLU",
+    "airport_name": "Kangiqsualujjuaq (Georges River) Airport",
+    "town": "Kangiqsualujjuaq",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYLW",
+    "airport_name": "Kelowna International Airport",
+    "town": "Kelowna",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYMA",
+    "airport_name": "Mayo Airport",
+    "town": "Mayo",
+    "prov": "Yukon"
+  },
+  {
+    "icao_code": "CYME",
+    "airport_name": "Matane Airport",
+    "town": "Matane",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYMG",
+    "airport_name": "Manitouwadge Airport",
+    "town": "Manitouwadge",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYMH",
+    "airport_name": "Mary's Harbour Airport",
+    "town": "Mary's Harbour",
+    "prov": "Newfoundland and Labrador"
+  },
+  {
+    "icao_code": "CYMJ",
+    "airport_name": "CFB Moose Jaw",
+    "town": "Moose Jaw",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CYML",
+    "airport_name": "Charlevoix Airport",
+    "town": "Charlevoix",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYMM",
+    "airport_name": "Fort McMurray International Airport",
+    "town": "Fort McMurray",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYMO",
+    "airport_name": "Moosonee Airport",
+    "town": "Moosonee",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYMT",
+    "airport_name": "Chibougamau/Chapais Airport",
+    "town": "Chibougamau",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYMU",
+    "airport_name": "Umiujaq Airport",
+    "town": "Umiujaq",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYMW",
+    "airport_name": "Maniwaki Airport",
+    "town": "Maniwaki",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYMX",
+    "airport_name": "Montréal–Mirabel International Airport",
+    "town": "Montreal",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYN6",
+    "airport_name": "Gravenhurst/Muskoka Bay Water Aerodrome",
+    "town": "Gravenhurst",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYNA",
+    "airport_name": "Natashquan Airport",
+    "town": "Natashquan",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYNC",
+    "airport_name": "Wemindji Airport",
+    "town": "Wemindji",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYND",
+    "airport_name": "Gatineau-Ottawa Executive Airport",
+    "town": "Gatineau",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYNE",
+    "airport_name": "Norway House Airport",
+    "town": "Norway House",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYNH",
+    "airport_name": "Hudson's Hope Airport",
+    "town": "Hudson's Hope",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYNJ",
+    "airport_name": "Langley Regional Airport",
+    "town": "Langley",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYNL",
+    "airport_name": "Points North Landing Airport",
+    "town": "Points North Landing",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CYNM",
+    "airport_name": "Matagami Airport",
+    "town": "Matagami",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYNN",
+    "airport_name": "Nejanilini Lake Airport",
+    "town": "Nejanilini Lake",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYNR",
+    "airport_name": "Fort MacKay/Horizon Airport",
+    "town": "Fort McKay",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYOA",
+    "airport_name": "Ekati Airport",
+    "town": "Ekati Diamond Mine",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYOC",
+    "airport_name": "Old Crow Airport",
+    "town": "Old Crow",
+    "prov": "Yukon"
+  },
+  {
+    "icao_code": "CYOD",
+    "airport_name": "CFB Cold Lake",
+    "town": "Cold Lake",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYOH",
+    "airport_name": "Oxford House Airport",
+    "town": "Oxford House",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYOJ",
+    "airport_name": "High Level Airport",
+    "town": "High Level",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYOO",
+    "airport_name": "Oshawa Executive Airport",
+    "town": "Oshawa",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYOP",
+    "airport_name": "Rainbow Lake Airport",
+    "town": "Rainbow Lake",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYOS",
+    "airport_name": "Owen Sound Billy Bishop Regional Airport",
+    "town": "Owen Sound",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYOW",
+    "airport_name": "Ottawa Macdonald–Cartier International Airport",
+    "town": "Ottawa",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYOY",
+    "airport_name": "CFB Valcartier",
+    "town": "Saint-Gabriel-de-Valcartier",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYPA",
+    "airport_name": "Prince Albert (Glass Field) Airport",
+    "town": "Prince Albert",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CYPC",
+    "airport_name": "Paulatuk (Nora Aliqatchialuk Ruben) Airport",
+    "town": "Paulatuk",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYPD",
+    "airport_name": "Allan J. MacEachen Port Hawkesbury Airport",
+    "town": "Port Hawkesbury",
+    "prov": "Nova Scotia"
+  },
+  {
+    "icao_code": "CYPE",
+    "airport_name": "Peace River Airport",
+    "town": "Peace River",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYPG",
+    "airport_name": "Portage la Prairie/Southport Airport",
+    "town": "Portage la Prairie",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYPH",
+    "airport_name": "Inukjuak Airport",
+    "town": "Inukjuak",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYPK",
+    "airport_name": "Pitt Meadows Airport",
+    "town": "Pitt Meadows",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYPL",
+    "airport_name": "Pickle Lake Airport",
+    "town": "Pickle Lake",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYPM",
+    "airport_name": "Pikangikum Airport",
+    "town": "Pikangikum First Nation",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYPN",
+    "airport_name": "Port-Menier Airport",
+    "town": "Port-Menier",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYPO",
+    "airport_name": "Peawanuck Airport",
+    "town": "Peawanuck",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYPP",
+    "airport_name": "Parent Airport",
+    "town": "Parent",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYPQ",
+    "airport_name": "Peterborough Airport",
+    "town": "Peterborough",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYPR",
+    "airport_name": "Prince Rupert Airport",
+    "town": "Prince Rupert",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYPS",
+    "airport_name": "Pemberton Regional Airport",
+    "town": "Pemberton",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYPT",
+    "airport_name": "Pelee Island Airport",
+    "town": "Pelee",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYPU",
+    "airport_name": "Puntzi Mountain Airport",
+    "town": "Puntzi Mountain",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYPW",
+    "airport_name": "Powell River Airport",
+    "town": "Powell River",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYPX",
+    "airport_name": "Puvirnituq Airport",
+    "town": "Puvirnituq",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYPY",
+    "airport_name": "Fort Chipewyan Airport",
+    "town": "Fort Chipewyan",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYPZ",
+    "airport_name": "Burns Lake Airport",
+    "town": "Burns Lake",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYQA",
+    "airport_name": "Muskoka Airport",
+    "town": "District Municipality of Muskoka",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYQB",
+    "airport_name": "Québec City Jean Lesage International Airport",
+    "town": "Quebec City",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYQD",
+    "airport_name": "The Pas Airport",
+    "town": "The Pas",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYQF",
+    "airport_name": "Red Deer Regional Airport",
+    "town": "Red Deer",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYQG",
+    "airport_name": "Windsor International Airport",
+    "town": "Windsor",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYQH",
+    "airport_name": "Watson Lake Airport",
+    "town": "Watson Lake",
+    "prov": "Yukon"
+  },
+  {
+    "icao_code": "CYQI",
+    "airport_name": "Yarmouth Airport",
+    "town": "Yarmouth",
+    "prov": "Nova Scotia"
+  },
+  {
+    "icao_code": "CYQK",
+    "airport_name": "Kenora Airport",
+    "town": "Kenora",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYQL",
+    "airport_name": "Lethbridge Airport",
+    "town": "Lethbridge",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYQM",
+    "airport_name": "Greater Moncton Roméo LeBlanc International Airport",
+    "town": "Moncton",
+    "prov": "New Brunswick"
+  },
+  {
+    "icao_code": "CYQN",
+    "airport_name": "Nakina Airport",
+    "town": "Nakina",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYQQ",
+    "airport_name": "CFB Comox",
+    "town": "Comox",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYQR",
+    "airport_name": "Regina International Airport",
+    "town": "Regina",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CYQS",
+    "airport_name": "St. Thomas Municipal Airport (Ontario)|St. Thomas Municipal Airport",
+    "town": "St. Thomas",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYQT",
+    "airport_name": "Thunder Bay International Airport",
+    "town": "Thunder Bay",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYQU",
+    "airport_name": "Grande Prairie Airport",
+    "town": "Grande Prairie",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYQV",
+    "airport_name": "Yorkton Municipal Airport",
+    "town": "Yorkton",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CYQW",
+    "airport_name": "North Battleford Airport",
+    "town": "North Battleford",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CYQX",
+    "airport_name": "Gander International Airport",
+    "town": "Gander",
+    "prov": "Newfoundland and Labrador"
+  },
+  {
+    "icao_code": "CYQY",
+    "airport_name": "Sydney/J.A. Douglas McCurdy Airport",
+    "town": "Sydney",
+    "prov": "Nova Scotia"
+  },
+  {
+    "icao_code": "CYQZ",
+    "airport_name": "Quesnel Airport",
+    "town": "Quesnel",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYRA",
+    "airport_name": "Gamètì/Rae Lakes Airport",
+    "town": "Gamèti",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYRB",
+    "airport_name": "Resolute Bay Airport",
+    "town": "Resolute",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYRC",
+    "airport_name": "Chicoutimi/Saint-Honoré Aerodrome",
+    "town": "Chicoutimi",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYRI",
+    "airport_name": "Rivière-du-Loup Airport",
+    "town": "Rivière-du-Loup",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYRJ",
+    "airport_name": "Roberval Airport",
+    "town": "Roberval",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYRL",
+    "airport_name": "Red Lake Airport",
+    "town": "Red Lake",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYRM",
+    "airport_name": "Rocky Mountain House Airport",
+    "town": "Rocky Mountain House",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYRO",
+    "airport_name": "Ottawa/Rockcliffe Airport",
+    "town": "Ottawa",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYRP",
+    "airport_name": "Carp Airport",
+    "town": "Carp",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYRQ",
+    "airport_name": "Trois-Rivières Airport",
+    "town": "Trois-Rivières",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYRS",
+    "airport_name": "Red Sucker Lake Airport",
+    "town": "Red Sucker Lake",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYRT",
+    "airport_name": "Rankin Inlet Airport",
+    "town": "Rankin Inlet",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYRV",
+    "airport_name": "Revelstoke Airport",
+    "town": "Revelstoke",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYSA",
+    "airport_name": "Stratford Municipal Airport",
+    "town": "Stratford",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYSB",
+    "airport_name": "Sudbury Airport",
+    "town": "Greater Sudbury",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYSC",
+    "airport_name": "Sherbrooke Airport",
+    "town": "Sherbrooke",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYSD",
+    "airport_name": "CFB Suffield",
+    "town": "Suffield",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYSE",
+    "airport_name": "Squamish Airport",
+    "town": "Squamish",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYSF",
+    "airport_name": "Stony Rapids Airport",
+    "town": "Stony Rapids",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CYSG",
+    "airport_name": "Saint-Georges Aerodrome",
+    "town": "Saint-Georges",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYSH",
+    "airport_name": "Smiths Falls-Montague Airport",
+    "town": "Smiths Falls",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYSJ",
+    "airport_name": "Saint John Airport",
+    "town": "Saint John",
+    "prov": "New Brunswick"
+  },
+  {
+    "icao_code": "CYSK",
+    "airport_name": "Sanikiluaq Airport",
+    "town": "Sanikiluaq",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYSL",
+    "airport_name": "Saint-Léonard Aerodrome",
+    "town": "Saint-Léonard",
+    "prov": "New Brunswick"
+  },
+  {
+    "icao_code": "CYSM",
+    "airport_name": "Fort Smith Airport",
+    "town": "Fort Smith",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYSN",
+    "airport_name": "St. Catharines/Niagara District Airport",
+    "town": "St. Catharines",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYSP",
+    "airport_name": "Marathon Aerodrome",
+    "town": "Marathon",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYSQ",
+    "airport_name": "Atlin Airport",
+    "town": "Atlin",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYST",
+    "airport_name": "St. Theresa Point Airport",
+    "town": "St. Theresa Point",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYSU",
+    "airport_name": "Summerside Airport",
+    "town": "Summerside",
+    "prov": "Prince Edward Island"
+  },
+  {
+    "icao_code": "CYSW",
+    "airport_name": "Sparwood/Elk Valley Airport",
+    "town": "Sparwood",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYSY",
+    "airport_name": "Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport",
+    "town": "Sachs Harbour",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYSZ",
+    "airport_name": "Sainte-Anne-des-Monts Aerodrome",
+    "town": "Sainte-Anne-Des-Monts",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYTA",
+    "airport_name": "Pembroke Airport",
+    "town": "Pembroke",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYTB",
+    "airport_name": "Tillsonburg Airport",
+    "town": "Tillsonburg",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYTE",
+    "airport_name": "Cape Dorset Airport",
+    "town": "Cape Dorset",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYTF",
+    "airport_name": "Alma Airport",
+    "town": "Alma",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYTH",
+    "airport_name": "Thompson Airport",
+    "town": "Thompson",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYTL",
+    "airport_name": "Big Trout Lake Airport",
+    "town": "Kitchenuhmaykoosib Inninuwug First Nation",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYTN",
+    "airport_name": "Trenton Aerodrome",
+    "town": "Trenton",
+    "prov": "Nova Scotia"
+  },
+  {
+    "icao_code": "CYTQ",
+    "airport_name": "Tasiujaq Airport",
+    "town": "Tasiujaq",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYTR",
+    "airport_name": "CFB Trenton",
+    "town": "Trenton",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYTS",
+    "airport_name": "Timmins/Victor M. Power Airport",
+    "town": "Timmins",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYTZ",
+    "airport_name": "Billy Bishop Toronto City Airport",
+    "town": "Toronto",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYUB",
+    "airport_name": "Tuktoyaktuk/James Gruben Airport",
+    "town": "Tuktoyaktuk",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYUL",
+    "airport_name": "Montréal–Pierre Elliott Trudeau International Airport",
+    "town": "Montreal",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYUT",
+    "airport_name": "Naujaat Airport",
+    "town": "Naujaat",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYUX",
+    "airport_name": "Hall Beach Airport",
+    "town": "Hall Beach",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYUY",
+    "airport_name": "Rouyn-Noranda Airport",
+    "town": "Rouyn-Noranda",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYVB",
+    "airport_name": "Bonaventure Airport",
+    "town": "Bonaventure",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYVC",
+    "airport_name": "La Ronge (Barber Field) Airport",
+    "town": "La Ronge",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CYVD",
+    "airport_name": "Virden/R.J. (Bob) Andrew Field Regional Aerodrome",
+    "town": "Virden",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYVG",
+    "airport_name": "Vermilion Airport",
+    "town": "Vermilion",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYVK",
+    "airport_name": "Vernon Regional Airport",
+    "town": "Vernon",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYVL",
+    "airport_name": "Colville Lake/Tommy Kochon Aerodrome",
+    "town": "Colville Lake",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYVM",
+    "airport_name": "Qikiqtarjuaq Airport",
+    "town": "Qikiqtarjuaq",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYVO",
+    "airport_name": "Val-d'Or Airport",
+    "town": "Val-d'Or",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYVP",
+    "airport_name": "Kuujjuaq Airport",
+    "town": "Kuujjuaq",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYVQ",
+    "airport_name": "Norman Wells Airport",
+    "town": "Norman Wells",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYVR",
+    "airport_name": "Vancouver International Airport",
+    "town": "Vancouver",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYVT",
+    "airport_name": "Buffalo Narrows Airport",
+    "town": "Buffalo Narrows",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CYVV",
+    "airport_name": "Wiarton Airport",
+    "town": "Wiarton",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYVZ",
+    "airport_name": "Deer Lake Airport",
+    "town": "Deer Lake First Nation",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYWA",
+    "airport_name": "Petawawa Heliport",
+    "town": "Garrison Petawawa]], [[Petawawa",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYWE",
+    "airport_name": "Wekweètì Airport",
+    "town": "Wekweeti",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYWG",
+    "airport_name": "Winnipeg James Armstrong Richardson International Airport",
+    "town": "Winnipeg",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYWH",
+    "airport_name": "Victoria Inner Harbour Airport",
+    "town": "Victoria",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYWJ",
+    "airport_name": "Déline Airport",
+    "town": "Deline",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYWK",
+    "airport_name": "Wabush Airport",
+    "town": "Wabush",
+    "prov": "Newfoundland and Labrador"
+  },
+  {
+    "icao_code": "CYWL",
+    "airport_name": "Williams Lake Airport",
+    "town": "Williams Lake",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYWM",
+    "airport_name": "Athabasca Airport",
+    "town": "Athabasca",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYWN",
+    "airport_name": "Wainwright/Wainwright (Field 21) Airport",
+    "town": "Wainwright",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYWP",
+    "airport_name": "Webequie Airport",
+    "town": "Webequie First Nation",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYWV",
+    "airport_name": "Wainwright Aerodrome",
+    "town": "Wainwright",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYWY",
+    "airport_name": "Wrigley Airport",
+    "town": "Wrigley",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYXC",
+    "airport_name": "Cranbrook/Canadian Rockies International Airport",
+    "town": "Cranbrook",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYXE",
+    "airport_name": "Saskatoon John G. Diefenbaker International Airport",
+    "town": "Saskatoon",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CYXH",
+    "airport_name": "Medicine Hat Airport",
+    "town": "Medicine Hat",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYXJ",
+    "airport_name": "Fort St. John Airport",
+    "town": "Fort St. John",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYXK",
+    "airport_name": "Rimouski Airport",
+    "town": "Rimouski",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYXL",
+    "airport_name": "Sioux Lookout Airport",
+    "town": "Sioux Lookout",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYXN",
+    "airport_name": "Whale Cove Airport",
+    "town": "Whale Cove",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYXP",
+    "airport_name": "Pangnirtung Airport",
+    "town": "Pangnirtung",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYXQ",
+    "airport_name": "Beaver Creek Airport",
+    "town": "Beaver Creek",
+    "prov": "Yukon"
+  },
+  {
+    "icao_code": "CYXR",
+    "airport_name": "Earlton (Timiskaming Regional) Airport",
+    "town": "Earlton",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYXS",
+    "airport_name": "Prince George Airport",
+    "town": "Prince George",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYXT",
+    "airport_name": "Northwest Regional Airport Terrace-Kitimat",
+    "town": "Kitimat",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYXU",
+    "airport_name": "London International Airport",
+    "town": "London",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYXX",
+    "airport_name": "Abbotsford International Airport",
+    "town": "Abbotsford",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYXY",
+    "airport_name": "Erik Nielsen Whitehorse International Airport",
+    "town": "Whitehorse",
+    "prov": "Yukon"
+  },
+  {
+    "icao_code": "CYXZ",
+    "airport_name": "Wawa Airport",
+    "town": "Wawa",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYYB",
+    "airport_name": "North Bay/Jack Garland Airport",
+    "town": "North Bay, Ontario",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYYC",
+    "airport_name": "Calgary International Airport",
+    "town": "Calgary",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYYD",
+    "airport_name": "Smithers Airport",
+    "town": "Smithers",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYYE",
+    "airport_name": "Fort Nelson Airport",
+    "town": "Fort Nelson",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYYF",
+    "airport_name": "Penticton Regional Airport",
+    "town": "Penticton",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYYG",
+    "airport_name": "Charlottetown Airport",
+    "town": "Charlottetown",
+    "prov": "Prince Edward Island"
+  },
+  {
+    "icao_code": "CYYH",
+    "airport_name": "Taloyoak Airport",
+    "town": "Taloyoak",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYYJ",
+    "airport_name": "Victoria International Airport",
+    "town": "Victoria",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYYL",
+    "airport_name": "Lynn Lake Airport",
+    "town": "Lynn Lake",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYYM",
+    "airport_name": "Cowley Airport",
+    "town": "Cowley",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYYN",
+    "airport_name": "Swift Current Airport",
+    "town": "Swift Current",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CYYO",
+    "airport_name": "Wynyard/W. B. Needham Field Aerodrome",
+    "town": "Wynyard",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CYYQ",
+    "airport_name": "Churchill Airport",
+    "town": "Churchill",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CYYR",
+    "airport_name": "CFB Goose Bay",
+    "town": "Happy Valley-Goose Bay",
+    "prov": "Newfoundland and Labrador"
+  },
+  {
+    "icao_code": "CYYT",
+    "airport_name": "St. John's International Airport",
+    "town": "St. John's",
+    "prov": "Newfoundland and Labrador"
+  },
+  {
+    "icao_code": "CYYU",
+    "airport_name": "Kapuskasing Airport",
+    "town": "Kapuskasing",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYYW",
+    "airport_name": "Armstrong Airport",
+    "town": "Armstrong",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYYY",
+    "airport_name": "Mont-Joli Airport",
+    "town": "Mont-Joli",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYYZ",
+    "airport_name": "Toronto Pearson International Airport",
+    "town": "Toronto",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYZD",
+    "airport_name": "Downsview Airport",
+    "town": "Toronto",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYZE",
+    "airport_name": "Gore Bay-Manitoulin Airport",
+    "town": "Gore Bay",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYZF",
+    "airport_name": "Yellowknife Airport",
+    "town": "Yellowknife",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CYZG",
+    "airport_name": "Salluit Airport",
+    "town": "Salluit",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYZH",
+    "airport_name": "Slave Lake Airport",
+    "town": "Slave Lake",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYZP",
+    "airport_name": "Sandspit Airport",
+    "town": "Sandspit",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYZR",
+    "airport_name": "Sarnia Chris Hadfield Airport",
+    "town": "Sarnia",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CYZS",
+    "airport_name": "Coral Harbour Airport",
+    "town": "Coral Harbour",
+    "prov": "Nunavut"
+  },
+  {
+    "icao_code": "CYZT",
+    "airport_name": "Port Hardy Airport",
+    "town": "Port Hardy",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CYZU",
+    "airport_name": "Whitecourt Airport",
+    "town": "Whitecourt",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CYZV",
+    "airport_name": "Sept-Îles Airport",
+    "town": "Sept-Îles",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CYZW",
+    "airport_name": "Teslin Airport",
+    "town": "Teslin",
+    "prov": "Yukon"
+  },
+  {
+    "icao_code": "CYZX",
+    "airport_name": "CFB Greenwood",
+    "town": "Greenwood",
+    "prov": "Nova Scotia"
+  },
+  {
+    "icao_code": "CYZY",
+    "airport_name": "Mackenzie Airport",
+    "town": "Mackenzie",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CZAC",
+    "airport_name": "York Landing Airport",
+    "town": "York Factory First Nation",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CZAM",
+    "airport_name": "Salmon Arm Airport",
+    "town": "Salmon Arm",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CZBA",
+    "airport_name": "Burlington Executive Airport",
+    "town": "Burlington",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CZBB",
+    "airport_name": "Boundary Bay Airport",
+    "town": "Delta",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CZBD",
+    "airport_name": "Ilford Airport",
+    "town": "Ilford",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CZBF",
+    "airport_name": "Bathurst Airport (New Brunswick)|Bathurst Airport",
+    "town": "Bathurst",
+    "prov": "New Brunswick"
+  },
+  {
+    "icao_code": "CZBM",
+    "airport_name": "Roland-Désourdy Airport",
+    "town": "Bromont",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CZEE",
+    "airport_name": "Kelsey Airport",
+    "town": "Kelsey",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CZEM",
+    "airport_name": "Eastmain River Airport",
+    "town": "Eastmain",
+    "prov": "Quebec"
+  },
+  {
+    "icao_code": "CZFA",
+    "airport_name": "Faro Airport (Yukon)|Faro Airport",
+    "town": "Faro",
+    "prov": "Yukon"
+  },
+  {
+    "icao_code": "CZFD",
+    "airport_name": "Fond-du-Lac Airport",
+    "town": "Fond-du-Lac",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CZFG",
+    "airport_name": "Pukatawagan Airport",
+    "town": "Pukatawagan",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CZFM",
+    "airport_name": "Fort McPherson Airport",
+    "town": "Fort McPherson",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CZFN",
+    "airport_name": "Tulita Airport",
+    "town": "Tulita",
+    "prov": "Northwest Territories"
+  },
+  {
+    "icao_code": "CZGF",
+    "airport_name": "Grand Forks Airport",
+    "town": "Grand Forks",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CZGI",
+    "airport_name": "Gods River Airport",
+    "town": "Gods River",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CZGR",
+    "airport_name": "Little Grand Rapids Airport",
+    "town": "Little Grand Rapids",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CZHP",
+    "airport_name": "High Prairie Airport",
+    "town": "High Prairie",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CZJG",
+    "airport_name": "Jenpeg Airport",
+    "town": "Jenpeg",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CZJN",
+    "airport_name": "Swan River Airport",
+    "town": "Swan River",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CZKE",
+    "airport_name": "Kashechewan Airport",
+    "town": "Kashechewan First Nation",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CZLQ",
+    "airport_name": "Thicket Portage Airport",
+    "town": "Thicket Portage",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CZMD",
+    "airport_name": "Muskrat Dam Airport",
+    "town": "Muskrat Dam Lake First Nation",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CZML",
+    "airport_name": "South Cariboo Regional Airport",
+    "town": "108 Mile Ranch",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CZMN",
+    "airport_name": "Pikwitonei Airport",
+    "town": "Pikwitonei",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CZMT",
+    "airport_name": "Masset Airport",
+    "town": "Masset",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CZNG",
+    "airport_name": "Poplar River Airport",
+    "town": "Poplar River First Nation",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CZNL",
+    "airport_name": "Nelson Airport (British Columbia)|Nelson Airport",
+    "town": "Nelson",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CZPB",
+    "airport_name": "Sachigo Lake Airport",
+    "town": "Sachigo Lake First Nation",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CZPC",
+    "airport_name": "Pincher Creek Airport",
+    "town": "Pincher Creek",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CZPO",
+    "airport_name": "Pinehouse Lake Airport",
+    "town": "Pinehouse",
+    "prov": "Saskatchewan"
+  },
+  {
+    "icao_code": "CZRJ",
+    "airport_name": "Round Lake (Weagamow Lake) Airport",
+    "town": "North Caribou Lake First Nation",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CZSJ",
+    "airport_name": "Sandy Lake Airport",
+    "town": "Sandy Lake First Nation",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CZSN",
+    "airport_name": "South Indian Lake Airport",
+    "town": "South Indian Lake",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CZST",
+    "airport_name": "Stewart Aerodrome",
+    "town": "Stewart",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CZSW",
+    "airport_name": "Prince Rupert/Seal Cove Water Aerodrome",
+    "town": "Prince Rupert",
+    "prov": "British Columbia"
+  },
+  {
+    "icao_code": "CZTA",
+    "airport_name": "Bloodvein River Airport",
+    "town": "Bloodvein First Nation",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CZTM",
+    "airport_name": "Shamattawa Airport",
+    "town": "Shamattawa",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CZUC",
+    "airport_name": "Ignace Municipal Airport",
+    "town": "Ignace",
+    "prov": "Ontario"
+  },
+  {
+    "icao_code": "CZUM",
+    "airport_name": "Churchill Falls Airport",
+    "town": "Churchill Falls",
+    "prov": "Newfoundland and Labrador"
+  },
+  {
+    "icao_code": "CZVL",
+    "airport_name": "Edmonton/Villeneuve Airport",
+    "town": "Villeneuve",
+    "prov": "Alberta"
+  },
+  {
+    "icao_code": "CZWH",
+    "airport_name": "Lac Brochet Airport",
+    "town": "Lac Brochet",
+    "prov": "Manitoba"
+  },
+  {
+    "icao_code": "CZWL",
+    "airport_name": "Wollaston Lake Airport",
+    "town": "Wollaston Lake",
+    "prov": "Saskatchewan"
+  }
+]
