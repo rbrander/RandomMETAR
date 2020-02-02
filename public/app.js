@@ -98,4 +98,15 @@ const randomize = async() => {
   console.log('fetchCount:', fetchCount);
 };
 
+const fadeInAndOut = () => {
+  const el = document.getElementById('loader');
+  el.classList.add('fadein');
+  const fadeout = () => {
+    el.classList.remove('fadein');
+    el.classList.add('fadeout');
+  };
+  setTimeout(fadeout, 7000);
+};
+fadeInAndOut();
+
 randomize();

@@ -28,9 +28,21 @@
       cursor: pointer;
       padding: 0.5rem 2rem;
     }
+    #loader { opacity: 0; display: none; }
+    .fadein { animation: fadein 3s linear; }
+    @keyframes fadein {
+      from { opacity: 0.0; }
+      to   { opacity: 1.0; }
+    }
+    .fadeout { animation: fadeout 3s linear; }
+    @keyframes fadeout {
+      from { opacity: 1.0; }
+      to   { opacity: 0.0; }
+    }
   </style>
 </head>
 <body>
+  <div id="loader"><img src="weather-512.png" width="128" height="128" /></div>
   <h1>Random METAR!</h1>
   <div class="buttons">
     <span class="button" onclick="save()">⭐ Save!</span>
